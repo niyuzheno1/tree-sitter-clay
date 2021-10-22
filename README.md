@@ -1,4 +1,7 @@
-tree-sitter-cpp
+tree-sitter-clay
+==================
+
+tree-sitter-c++ (original content)
 ==================
 
 [![Build Status](https://travis-ci.org/tree-sitter/tree-sitter-cpp.svg?branch=master)](https://travis-ci.org/tree-sitter/tree-sitter-cpp)
