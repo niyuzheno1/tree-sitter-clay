@@ -3,3 +3,16 @@ node_modules
 build
 package-lock.json
 /target/
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+*.cpp
+sample/*
+../exampleconf.json
+../notes.txt
+exampleconf.json
+notes.txt
+ordinarywebpack
+webpackingscript
